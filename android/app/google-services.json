@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738243128308",
+    "project_id": "bturkce-4bf71",
+    "storage_bucket": "bturkce-4bf71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738243128308:android:f080adf816353324ec27a1",
+        "android_client_info": {
+          "package_name": "com.example.b_turkce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoEb5PKnVhOwAl9VI1jpqMN1Cb63RunY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
