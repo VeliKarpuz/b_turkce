@@ -80,7 +80,7 @@ class _MyHomePageState extends State<MyHomePage> {
     FirebaseFirestore firestore = FirebaseFirestore.instance;
     CollectionReference testCollectionRef =
         FirebaseFirestore.instance.collection("Test");
-    testCollectionRef.add({"name": "counter", "age": "$_counter"});
+    testCollectionRef.add({"name": "counter$_counter", "age": "$_counter"});
 
     setState(() {
       // This call to setState tells the Flutter framework that something has
